@@ -1,0 +1,14 @@
+title: "Plan Estratégico Institucional (versión web)"
+description: "Conversión automática del PDF a sitio navegable"
+remote_theme: just-the-docs/just-the-docs
+search_enabled: true
+color_scheme: light
+
+# Navegación
+nav_external_links:
+  - title: "Repositorio en GitHub"
+    url: "https://github.com/"
+    hide_icon: false
+
+# Footer
+footer_content: "Generado automáticamente a partir de un PDF con ayuda de GitHub Copilot y ChatGPT."
